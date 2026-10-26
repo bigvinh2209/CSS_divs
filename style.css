@@ -1,0 +1,18 @@
+#main-title {
+  text-align: center;
+  color: purple;
+}
+
+.card {
+  background-color: lightgray;
+  margin-bottom: 20px;
+}
+
+.heading {
+  color: blue;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
